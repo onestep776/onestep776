@@ -11,7 +11,6 @@
 
 - You can Star ⭐ the repositories you like. 
 - You can Follow 👏 me here.
-<br>
 
 <!-- About Me -->
 <h2 align="left">About me👨‍💻</h2>
@@ -27,44 +26,6 @@ const onestep776 = {
   toFindMeUsername: "onestep776"
 };
 ```
-
-<!-- Experience -->
-<h2 align="left">Experience⚡</h2>
-<!-- Experience Items -->
-<p>
-  ● <a href="https://fastn.com">FifthTry</a><i><b> (Developer Relations Engineer)</b></i> -
-  Building the <code>ftd</code> programming language and the <code>fastn</code> full-stack web framework using Rust to create fully-fledged full-stack web applications and making deployment effortless on your server or the <code>fastn</code> cloud by <a href="https://fifthtry.com">FifthTry</a>.
-  Check out the <a href="https://github.com/fastn-community">fastn community</a> and the <a href="https://github.com/fastn-stack">fastn stack</a> on <a href="https://github.com/fifthtry">GitHub</a>.
-</p>
-<!--  -->
-
-<!-- Experience Items -->
-<p>
-  ●
-  <a href="https://magic.app/">Magic</a>
-  <i><b> (Product Engineer)</b></i> -
-  Worked on a dashboard application based on a SaaS product that seamlessly integrates with Slack. The application provides communities with features such as access member directories, manage events and spaces, receive announcements without distractions, and automate bulk messages in Slack without leaving Slack.
-</p>
-<!-- -->
-
-<!-- Experience Items -->
-<p>
-  ● <a href="https://www.economize.cloud/">Economize</a>
-  <i><b> (Software Engineer)</b></i> - 
-  Worked on a dashboard application based on a SaaS product to optimize and manage cloud costs. Improved frontend UI, set up Storybook for base components, and built interactive charts with Chart.js and Vue-Chart.js. Assisted in backend development and worked on the landing and blog sites.
-</p>
-<!-- -->
-
-<!-- Experience Items -->
-<p>
-  ● <a href="https://getsocialnow.co/">Script Fellowship</a> - Worked on KaroVerify, CraftBrain, and HACK-OV8 projects which are based on the MERN stack. Selected as a Fellow in the Script Fellowship Program'21 at Script Foundation. I am the top first contributor in the Script Fellowship and helped other fellows in open-source development.
-</p>
-<!--  -->
-
-<!-- Experience Items -->
-<p>
-  ● <a href="/">Open Source Contributor/Mentor</a> - I have participated as a participant and mentor in various open-source contribution programs such as <a href="https://letsgrowmore.in/soc/">LGMSoC</a>, <a href="https://www.devincept.com/">DCP</a>, <a href="https://gwoc.girlscript.tech/">GWoC</a>, <a href="https://swoc.scriptindia.org/">SWoC</a>, and <a href="https://gdsc-woc.tech/">WoC-2.0</a>. I have contributed to open-source projects in the frontend and backend domains and assisted in project documentation development.
-</p>
 
 ## 🛠️ Languages and Tools:
 <p>
@@ -91,8 +52,9 @@ const onestep776 = {
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-F0505D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />  
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
 </p>
