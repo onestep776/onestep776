@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome to my profile!</h1>
 
 
-<p><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"/>I'm Rafael, Full Stack & Blockchain Engineer from <b>Brazil</b></p>
 
 👨🏻‍💻I am a passionate full-stack & Blockchain developer and devrel engineer with a love for open-source and UI designing. I specialize in building robust and scalable Full Stack products, Smart Contract & Token development and Cloud Service integration. With a strong grasp of Full Stack, Blockchain and Cloud Service architecture, I create perfect products for engaging user experiences.
 
@@ -17,7 +16,6 @@
 
 ```JavaScript
 const onestep776 = {
-  fullName: "Rafael Francisco",
   pronouns: "He/Him",
   tags: ["Frontend ❤️", "Open-Source 🚀", "Blockchain ⚡", "Cloud 🌩️", "Backend 💡", "API creation & integration 🙌", "Communities 🎯"],
   communities: [Blockhost Core Developer 👨‍🎓"],
