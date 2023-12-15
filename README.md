@@ -1,11 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome to my profile!</h1>
-
-
-
-👨🏻‍💻I am a passionate full-stack & Blockchain developer and devrel engineer with a love for open-source and UI designing. I specialize in building robust and scalable Full Stack products, Smart Contract & Token development and Cloud Service integration. With a strong grasp of Full Stack, Blockchain and Cloud Service architecture, I create perfect products for engaging user experiences.
-
-🚀I have extensive experience in HTML, CSS, Javascript, Typescript, Solidity, Python, Golang, PHP, MySQL, MongoDB and PostgreSQL using them for professional and personal projects. I'm involved in Blockhosts as both a participant and developer. Additionally, I also lead community initiatives, offer software development sessions, and provide team leadership.
-
 **What if you like my work?**
 
 - You can Star ⭐ the repositories you like. 
